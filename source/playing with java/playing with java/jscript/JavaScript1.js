@@ -1,15 +1,13 @@
 ﻿var foodDemand = function(food) {
 
     alert("I want to eat" + " " + food);
-}
-
+};
 var greetings = function(name) {
     alert("Hello " + name + "! How are you?");
-}
-
+};
 var console = function(text) {
     alert(text);
-}
+};
 
 //var food = prompt("Hey, what do you want to eat?","Enter food name here");
 //foodDemand(food);
@@ -17,6 +15,6 @@ var console = function(text) {
 //var name = prompt("Hello? Who are you?", "Write your name here");
 //greetings(name);
 
-//console("Hello there!");
+console("Hello there!");
 
-console.log("Hey! What's going on?");
+//console.log("Hey! What's going on?");
