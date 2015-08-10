@@ -15,6 +15,6 @@ var console = function(text) {
 //var name = prompt("Hello? Who are you?", "Write your name here");
 //greetings(name);
 
-console("Hello there!");
+console.log("hello console!");
 
 //console.log("Hey! What's going on?");
